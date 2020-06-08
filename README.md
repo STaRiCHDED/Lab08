@@ -1,5 +1,21 @@
 [![Build Status](https://travis-ci.com/STaRiCHDED/Lab08.svg?branch=master)](https://travis-ci.com/STaRiCHDED/Lab08)
 ## Laboratory work VIII
+
+<a href="https://yandex.ru/efir/?stream_id=v0mnBi_R2Ldw"><img src="https://raw.githubusercontent.com/tp-labs/lab08/master/preview.png" width="640"/></a>
+
+Данная лабораторная работа посвещена изучению систем автоматизации развёртывания и управления приложениями на примере **Docker**
+
+```sh
+$ open https://docs.docker.com/get-started/
+```
+
+## Tasks
+
+- [x] 1. Создать публичный репозиторий с названием **lab08** на сервисе **GitHub**
+- [x] 2. Ознакомиться со ссылками учебного материала
+- [x] 3. Выполнить инструкцию учебного материала
+- [x] 4. Составить отчет и отправить ссылку личным сообщением в **Slack**
+
 ## Tutorial
 ```sh
 $ export GITHUB_USERNAME=STaRiCHDED
@@ -280,8 +296,10 @@ $ gist REPORT.md
 ```
 
 ## Links
-- [BOOK](https://www.dockerbook.com/)
+
+- [Book](https://www.dockerbook.com)
 - [Instructions](https://docs.docker.com/engine/reference/builder/)
+
 ```
 Copyright (c) 2015-2020 The ISC Authors
 ```
